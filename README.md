@@ -1,4 +1,4 @@
-### Projeto de Vendas - Power BI
+# Projeto de Vendas - Power BI
 ## Contexto
 Este projeto tem como objetivo apresentar um relatório detalhado de vendas utilizando o Power BI. Os relatórios incluem informações sobre lucros, vendas, segmentos de mercado, e desempenho por país e produto. O conjunto de dados foi atualizado pela última vez em 26/07/2024.
 
@@ -30,5 +30,3 @@ Explorar as imagens: As imagens dos painéis foram incluídas para uma rápida v
 Contribuição
 Sinta-se à vontade para abrir issues e pull requests caso tenha sugestões de melhorias ou encontre algum problema.
 
-### Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
