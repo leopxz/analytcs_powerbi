@@ -2,7 +2,7 @@
 ## Contexto
 Este projeto tem como objetivo apresentar um relatório detalhado de vendas utilizando o Power BI. Os relatórios incluem informações sobre lucros, vendas, segmentos de mercado, e desempenho por país e produto. O conjunto de dados foi atualizado pela última vez em 26/07/2024.
 
-## Estrutura do Projeto
+# Estrutura do Projeto
 O projeto é composto por dois principais painéis:
 
 ## Painel 1: Relatório de Vendas
@@ -24,7 +24,7 @@ Contagem de Segment por Segment: Gráfico de árvore que divide os segmentos de 
 Soma de Profit por Trimestre: Gráfico de barras que mostra a variação dos lucros ao longo dos trimestres.
 Detalhamento por Ano e País: Visão detalhada dos lucros por ano e por país.
 
-### Visualização
+# Visualização
 
 Explorar as imagens: As imagens dos painéis foram incluídas para uma rápida visualização dos principais indicadores.
 Contribuição
